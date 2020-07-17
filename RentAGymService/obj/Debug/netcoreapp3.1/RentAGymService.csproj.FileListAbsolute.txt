@@ -92,3 +92,8 @@
 /Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/obj/Debug/netcoreapp3.1/RentAGymService.dll
 /Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/obj/Debug/netcoreapp3.1/RentAGymService.pdb
 /Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/obj/Debug/netcoreapp3.1/RentAGymService.genruntimeconfig.cache
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/obj/Debug/netcoreapp3.1/RentAGymService.MvcApplicationPartsAssemblyInfo.cs

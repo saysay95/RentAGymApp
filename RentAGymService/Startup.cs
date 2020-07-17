@@ -17,6 +17,9 @@ using Shared;
 using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.AspNetCore.Mvc.Formatters.Xml;
 using RentAGymService.Repositories;
+using Swashbuckle.AspNetCore.Swagger;
+using Swashbuckle.AspNetCore.SwaggerUI;
+using Microsoft.OpenApi.Models;
 
 namespace RentAGymService
 {
@@ -50,7 +53,7 @@ namespace RentAGymService
                                 WriteLine($"  {formatter.GetType().Name}");
                             }
                             else // OutputFormatter class has SupportedMediaTypes
-                {
+                            {
                                 WriteLine("  {0}, Media types: {1}",
                       arg0: mediaFormatter.GetType().Name,
                       arg1: string.Join(", ", mediaFormatter.SupportedMediaTypes));
@@ -61,7 +64,14 @@ namespace RentAGymService
                     .AddXmlSerializerFormatters()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
 
-                    services.AddScoped<IAddressRepository, AddressRepository>();
+            services.AddScoped<IAddressRepository, AddressRepository>();
+
+            // Register the Swagger generator and define a Swagger document // for Northwind service
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc(name: "v1", info: new OpenApiInfo
+                { Title = "Northwind Service API", Version = "v1" });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -81,6 +91,13 @@ namespace RentAGymService
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+
+            app.UseSwagger();
+            app.UseSwaggerUI(options =>
+            {
+                options.SwaggerEndpoint("/swagger/v1/swagger.json", "Northwind Service API Version 1");
+                options.SupportedSubmitMethods(new[] { SubmitMethod.Get, SubmitMethod.Post, SubmitMethod.Put, SubmitMethod.Delete });
             });
         }
     }
