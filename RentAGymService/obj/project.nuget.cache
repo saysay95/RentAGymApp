@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4DhQf64a5F8ppJpGF+9iRTuMXE8QpCsopYE+xg1wjDBnMe9hF4pbrSVbkYhmAYLuqieQgvwUyz9A3yqoHW3ziQ==",
+  "dgSpecHash": "GzGATDPU6W0eR5Z8Bar848HeSVwEr+FCEqlfnrdac2b5KIYDPKVlAZVvKWj69/ABnsHA3bhvaQl8HB4sYVrhZw==",
   "success": true,
-  "projectFilePath": "/Users/macbook/Documents/RentAGymApp/RentAGymService/RentAGymService.csproj",
+  "projectFilePath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/RentAGymService.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/microsoft.data.sqlite.core/3.0.0/microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.dotnet.platformabstractions/3.0.0/microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",

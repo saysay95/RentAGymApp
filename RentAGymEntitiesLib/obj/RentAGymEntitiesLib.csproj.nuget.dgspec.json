@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj": {}
+    "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj": {
+    "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj",
+        "projectUniqueName": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj",
         "projectName": "RentAGymEntitiesLib",
-        "projectPath": "/Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj",
+        "projectPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/obj/",
+        "outputPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"

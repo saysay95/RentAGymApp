@@ -7,3 +7,12 @@
 /Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.AssemblyInfo.cs
 /Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.dll
 /Users/macbook/Documents/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.pdb
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/bin/Debug/netstandard2.0/RentAGymEntitiesLib.deps.json
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/bin/Debug/netstandard2.0/RentAGymEntitiesLib.dll
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/bin/Debug/netstandard2.0/RentAGymEntitiesLib.pdb
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.csprojAssemblyReference.cache
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.AssemblyInfo.cs
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.dll
+/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/obj/Debug/netstandard2.0/RentAGymEntitiesLib.pdb

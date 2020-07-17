@@ -1016,11 +1016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Documents/RentAGymApp/RentAGymService/RentAGymService.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/RentAGymService.csproj",
       "projectName": "RentAGymService",
-      "projectPath": "/Users/macbook/Documents/RentAGymApp/RentAGymService/RentAGymService.csproj",
+      "projectPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/RentAGymService.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Documents/RentAGymApp/RentAGymService/obj/",
+      "outputPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -1034,8 +1034,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/macbook/Documents/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj": {
-              "projectPath": "/Users/macbook/Documents/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj"
+            "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj": {
+              "projectPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj"
             }
           }
         }
