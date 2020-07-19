@@ -1,7 +1,0 @@
-GET https://localhost:5001/api/addresses/ HTTP/1.1
-###
-GET https://localhost:5001/api/addresses/?country=UK HTTP/1.1 ###
-###
-GET https://localhost:5001/api/addresses/?country=USA HTTP/1.1 Accept: application/xml
-###
-GET https://localhost:5001/api/addresses/1 HTTP/1.1

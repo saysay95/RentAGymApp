@@ -10,9 +10,6 @@
 			"path": "RentAGymContextLib"
 		},
 		{
-			"path": "RentAGymService"
-		},
-		{
 			"path": "RentAGymServices"
 		}
 	],
