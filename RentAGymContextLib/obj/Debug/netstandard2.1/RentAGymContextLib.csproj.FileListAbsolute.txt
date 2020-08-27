@@ -22,3 +22,15 @@
 /Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.csproj.CopyComplete
 /Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.dll
 /Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.pdb
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/bin/Debug/netstandard2.1/RentAGymContextLib.deps.json
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/bin/Debug/netstandard2.1/RentAGymContextLib.dll
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/bin/Debug/netstandard2.1/RentAGymContextLib.pdb
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/bin/Debug/netstandard2.1/RentAGymEntitiesLib.dll
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/bin/Debug/netstandard2.1/RentAGymEntitiesLib.pdb
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.csprojAssemblyReference.cache
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.AssemblyInfoInputs.cache
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.AssemblyInfo.cs
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.csproj.CopyComplete
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.dll
+/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/Debug/netstandard2.1/RentAGymContextLib.pdb

@@ -1,0 +1,6 @@
+
+GET https://localhost:5001/api/SearchResults?spacetypes=mat&spacetypes=ring&spacetypes=oct&city=Redmond HTTP/1.1
+
+###
+
+GET https://localhost:5001/api/SearchResults?spacetypes=mat&spacetypes=ring&spacetypes=oct&city=Cergy HTTP/1.1

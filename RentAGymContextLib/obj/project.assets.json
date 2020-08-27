@@ -1222,11 +1222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj",
       "projectName": "RentAGymContextLib",
-      "projectPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj",
+      "projectPath": "/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/RentAGymContextLib.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymContextLib/obj/",
+      "outputPath": "/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymContextLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -1240,8 +1240,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj": {
-              "projectPath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj"
+            "/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj": {
+              "projectPath": "/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj"
             }
           }
         }

@@ -25,6 +25,7 @@ namespace Shared
         public virtual DbSet<SpaceWithType> SpacesWithType { get; set; }
         public virtual DbSet<Space> Spaces { get; set; }
         public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<City> Cities { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -238,6 +239,18 @@ namespace Shared
                 entity.HasOne(d => d.Address)
                     .WithMany(p => p.Users)
                     .HasForeignKey(d => d.AddressId);
+            });
+
+            modelBuilder.Entity<City>(entity =>
+            {
+                entity.HasKey(c => c.CityId);
+
+                entity.Property(c => c.CityId)
+                    .HasColumnName("CityID")
+                    .ValueGeneratedNever();
+
+                entity.Property(c => c.Name)
+                    .HasColumnType("nvarchar(255)");
             });
 
             OnModelCreatingPartial(modelBuilder);

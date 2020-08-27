@@ -38,11 +38,16 @@ namespace RentAGymServices
 
 
             services.AddControllersWithViews()
-            .AddXmlDataContractSerializerFormatters()
-            .AddXmlSerializerFormatters()
-            .SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+            // .AddXmlDataContractSerializerFormatters()
+            // .AddXmlSerializerFormatters()
+            // .SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+            ;
 
             services.AddScoped<IAddressRepository, AddressRepository>();
+            services.AddScoped<ISpaceTypeRepository, SpaceTypeRepository>();
+            services.AddScoped<ICityRepository, CityRepository>();
+            services.AddScoped<ISearchResultsRepository, SearchResultsRepository>();
+            services.AddScoped<ISpaceRepository, SpaceRepository>();
 
             // Register the Swagger generator and define a Swagger document for RentAGym service
             services.AddSwaggerGen(options =>

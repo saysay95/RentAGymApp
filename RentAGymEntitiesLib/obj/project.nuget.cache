@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n7dt7q98nQd0fVh6zTuN5OkicLd2X+ozGUpbSCfllePJwudOjxYQG25/RB90CtgxlY08mO0RJBdlu3TzhFPa9A==",
+  "dgSpecHash": "wFYO1UsJmhKaxOm42EnAaKEtewZRGccPlhGkCaM1VSzKC1t4XalByGRujxQk2qPrjqonEvMSsppv59Auk5nFuA==",
   "success": true,
-  "projectFilePath": "/Users/macbook/Documents/Web Projects/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj",
+  "projectFilePath": "/Users/macbook/Documents/GitHub/RentAGymApp/RentAGymEntitiesLib/RentAGymEntitiesLib.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
